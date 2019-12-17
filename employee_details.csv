@@ -1,0 +1,82 @@
+Unique_employee id,Age,BusinessTravel,Department,technical_competency,Gender,JobLevel,JobRole,no_of companies,OverTime,PerformanceRating,Experience_years,YearsInCurrentRole,employee_count
+1705159,41,Travel_Rarely,Sales,ML,Female,2,Sales Executive,8,Yes,3,8,4,1
+1705160,49,Travel_Frequently,Research & Development,ML,Male,2,Research Scientist,1,No,4,10,7,1
+1705161,37,Travel_Rarely,Research & Development,UI,Male,1,Laboratory Technician,6,Yes,3,7,0,1
+1705162,33,Travel_Frequently,Research & Development,ML,Female,1,Research Scientist,1,Yes,3,8,7,1
+1705163,27,Travel_Rarely,Research & Development,java,Male,1,Laboratory Technician,9,No,3,6,2,1
+1705164,32,Travel_Frequently,Research & Development,ML,Male,1,Laboratory Technician,0,No,3,8,7,1
+1705165,59,Travel_Rarely,Research & Development,java,Female,1,Laboratory Technician,4,Yes,4,12,0,1
+1705166,30,Travel_Rarely,Research & Development,ML,Male,1,Laboratory Technician,1,No,4,1,0,1
+1705167,38,Travel_Frequently,Research & Development,ML,Male,3,Manufacturing Director,0,No,4,10,7,1
+1705168,36,Travel_Rarely,Research & Development,java,Male,2,Healthcare Representative,6,No,3,17,7,1
+1705169,35,Travel_Rarely,Research & Development,java,Male,1,Laboratory Technician,0,No,3,6,4,1
+1705170,29,Travel_Rarely,Research & Development,Web Dev,Female,2,Laboratory Technician,0,Yes,3,10,5,1
+1705171,31,Travel_Rarely,Research & Development,Web Dev,Male,1,Research Scientist,1,No,3,5,2,1
+1705172,34,Travel_Rarely,Research & Development,java,Male,1,Laboratory Technician,0,No,3,3,2,1
+1705173,28,Travel_Rarely,Research & Development,ML,Male,1,Laboratory Technician,5,Yes,3,6,2,1
+1705174,29,Travel_Rarely,Research & Development,ML,Female,3,Manufacturing Director,1,No,3,10,9,1
+1705175,32,Travel_Rarely,Research & Development,ML,Male,1,Research Scientist,0,Yes,3,7,2,1
+1705176,22,Non-Travel,Research & Development,java,Male,1,Laboratory Technician,1,Yes,3,1,0,1
+1705177,53,Travel_Rarely,Sales,ML,Female,4,Manager,2,No,3,31,8,1
+1705178,38,Travel_Rarely,Research & Development,ML,Male,1,Research Scientist,5,Yes,3,6,2,1
+1705179,24,Non-Travel,Research & Development,UI,Female,2,Manufacturing Director,0,No,3,5,2,1
+1705180,36,Travel_Rarely,Sales,ML,Male,1,Sales Representative,7,No,4,10,3,1
+1705181,34,Travel_Rarely,Research & Development,ML,Female,3,Research Director,0,No,3,13,6,1
+1705182,21,Travel_Rarely,Research & Development,ML,Male,1,Research Scientist,1,No,3,0,0,1
+1705183,34,Travel_Rarely,Research & Development,java,Male,1,Research Scientist,2,No,3,8,2,1
+1705184,53,Travel_Rarely,Research & Development,UI,Female,5,Manager,4,No,3,26,13,1
+1705185,32,Travel_Frequently,Research & Development,ML,Female,1,Research Scientist,1,Yes,4,10,2,1
+1705186,42,Travel_Rarely,Sales,Marketing,Male,2,Sales Executive,0,No,3,10,7,1
+1705187,44,Travel_Rarely,Research & Development,java,Female,3,Healthcare Representative,3,No,3,24,6,1
+1705188,46,Travel_Rarely,Sales,Marketing,Female,5,Manager,3,No,3,22,2,1
+1705189,33,Travel_Rarely,Research & Development,java,Male,1,Laboratory Technician,4,No,3,7,1,1
+1705190,44,Travel_Rarely,Research & Development,UI,Male,2,Healthcare Representative,2,Yes,3,9,2,1
+1705191,30,Travel_Rarely,Research & Development,java,Male,1,Laboratory Technician,1,No,3,10,0,1
+1705192,39,Travel_Rarely,Sales,Web Dev,Male,2,Sales Representative,3,No,3,19,0,1
+1705193,24,Travel_Rarely,Research & Development,java,Male,1,Research Scientist,2,Yes,3,6,0,1
+1705194,43,Travel_Rarely,Research & Development,java,Female,1,Research Scientist,1,No,3,6,3,1
+1705195,50,Travel_Rarely,Sales,Marketing,Male,1,Sales Representative,1,Yes,3,3,2,1
+1705196,35,Travel_Rarely,Sales,Marketing,Female,1,Sales Representative,1,No,3,2,2,1
+1705197,36,Travel_Rarely,Research & Development,ML,Female,1,Research Scientist,9,Yes,3,6,1,1
+1705198,33,Travel_Frequently,Sales,ML,Female,2,Sales Executive,2,No,3,10,3,1
+1705199,35,Travel_Rarely,Research & Development,UI,Male,1,Laboratory Technician,1,No,3,1,0,1
+1705200,27,Travel_Rarely,Research & Development,ML,Female,1,Laboratory Technician,1,No,3,1,0,1
+1705201,26,Travel_Rarely,Research & Development,ML,Male,1,Laboratory Technician,1,No,3,1,0,1
+1705202,27,Travel_Frequently,Sales,ML,Male,3,Sales Executive,1,No,3,9,8,1
+1705203,30,Travel_Frequently,Research & Development,java,Female,2,Laboratory Technician,1,No,4,12,8,1
+1705204,41,Travel_Rarely,Research & Development,Web Dev,Female,5,Research Director,1,No,3,23,15,1
+1705205,34,Non-Travel,Sales,Marketing,Male,2,Sales Executive,0,No,4,10,5,1
+1705206,37,Travel_Rarely,Research & Development,ML,Male,1,Research Scientist,4,No,4,8,0,1
+1705207,46,Travel_Frequently,Sales,Marketing,Male,2,Sales Executive,4,Yes,4,14,6,1
+1705208,35,Travel_Rarely,Research & Development,ML,Male,1,Laboratory Technician,1,No,3,1,0,1
+1705209,48,Travel_Rarely,Research & Development,ML,Male,3,Laboratory Technician,9,Yes,3,23,0,1
+1705210,28,Travel_Rarely,Research & Development,Web Dev,Male,1,Laboratory Technician,1,Yes,3,2,2,1
+1705211,44,Travel_Rarely,Sales,Marketing,Female,2,Sales Executive,5,Yes,4,9,3,1
+1705212,35,Non-Travel,Research & Development,java,Male,3,Healthcare Representative,2,Yes,3,10,0,1
+1705213,26,Travel_Rarely,Sales,Marketing,Female,2,Sales Executive,7,Yes,3,5,2,1
+1705214,33,Travel_Frequently,Research & Development,ML,Female,3,Research Director,1,Yes,3,15,14,1
+1705215,35,Travel_Frequently,Sales,ML,Male,3,Sales Executive,1,No,4,9,8,1
+1705216,35,Travel_Rarely,Research & Development,java,Female,1,Laboratory Technician,3,Yes,3,4,2,1
+1705217,31,Travel_Rarely,Research & Development,ML,Male,2,Laboratory Technician,3,No,4,10,7,1
+1705218,37,Travel_Rarely,Research & Development,ML,Male,2,Manufacturing Director,1,No,3,7,5,1
+1705219,32,Travel_Rarely,Research & Development,java,Male,2,Manufacturing Director,1,Yes,4,9,8,1
+1705220,38,Travel_Frequently,Research & Development,ML,Female,2,Laboratory Technician,1,No,3,10,3,1
+1705221,50,Travel_Rarely,Research & Development,java,Female,5,Research Director,5,Yes,3,29,3,1
+1705222,59,Travel_Rarely,Sales,ML,Female,3,Sales Executive,7,No,3,28,16,1
+1705223,36,Travel_Rarely,Research & Development,Web Dev,Female,3,Healthcare Representative,1,No,3,17,14,1
+1705224,55,Travel_Rarely,Research & Development,java,Female,4,Manager,2,Yes,3,21,0,1
+1705225,36,Travel_Frequently,Research & Development,ML,Male,2,Manufacturing Director,1,No,3,6,5,1
+1705226,45,Travel_Rarely,Research & Development,ML,Male,3,Research Scientist,2,No,3,25,0,1
+1705227,35,Travel_Frequently,Research & Development,java,Male,1,Research Scientist,4,No,3,5,2,1
+1705228,36,Travel_Rarely,Research & Development,java,Male,1,Research Scientist,0,Yes,3,2,0,1
+1705229,59,Travel_Frequently,Sales,ML,Female,2,Sales Executive,7,No,3,20,3,1
+1705230,29,Travel_Rarely,Research & Development,ML,Male,1,Research Scientist,0,No,4,6,4,1
+1705231,31,Travel_Rarely,Research & Development,java,Male,1,Research Scientist,1,No,3,1,1,1
+1705232,32,Travel_Rarely,Research & Development,ML,Male,2,Research Scientist,1,No,3,10,4,1
+1705233,36,Travel_Rarely,Research & Development,ML,Female,1,Laboratory Technician,3,No,3,5,0,1
+1705234,31,Travel_Rarely,Research & Development,ML,Female,2,Manufacturing Director,1,No,4,11,7,1
+1705235,35,Travel_Rarely,Sales,Marketing,Male,2,Sales Executive,0,No,3,16,13,1
+1705236,45,Travel_Rarely,Research & Development,UI,Male,3,Research Director,4,Yes,3,17,0,1
+1705237,37,Travel_Rarely,Research & Development,java,Male,3,Research Director,4,No,3,16,2,1
+1705238,46,Travel_Rarely,Human Resources,java,Male,2,Human Resources,8,Yes,4,16,2,1
+1705239,30,Travel_Rarely,Research & Development,ML,Male,2,Laboratory Technician,1,Yes,3,10,8,1
